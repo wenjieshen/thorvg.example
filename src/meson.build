@@ -27,6 +27,7 @@ source_file = [
     'Masking.cpp',
     'MaskingMethods.cpp',
     'Opacity.cpp',
+    'PartialRenderRegression.cpp',
     'Path.cpp',
     'Picture.cpp',
     'PictureData.cpp',
